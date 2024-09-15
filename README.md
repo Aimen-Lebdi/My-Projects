@@ -10,3 +10,5 @@ https://template-four-zeta.vercel.app/
 https://template-five-tau.vercel.app/
 
 https://template-six-coral.vercel.app/
+
+https://template-seven-rho.vercel.app/
